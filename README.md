@@ -1,6 +1,7 @@
 ### ✋ Hello, MZEN here!
 
 CS Student who enjoys Rust and Sveltekit.
+https://mzen.dev
 
 ### Profiles
 📫 mzen17.jp@gmail.com\
