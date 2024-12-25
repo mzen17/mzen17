@@ -11,4 +11,9 @@ Activities:
 - Homelab system admin
 - West Computing Club Co-Founder
 
+Coursework (graduate):
+- Distributed Systems
+- Software Engineering Master Capstone I & II
+- High Performance Computing
+
 Github Stats
