@@ -15,7 +15,7 @@ Coursework (graduate):
 - Software Engineering Master Capstone I & II
 - High Performance Computing
 
-Github Stats
+Github Stats:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=mzen17&theme=tokyonight)](https://github.com/mzen17/github-readme-stats)
 
