@@ -6,8 +6,8 @@ Experience:
 - 2x research intern @uiowa, 1 publication.
 
 Activities:
-- ATHR Lab founder and lead researcher
-- Homelab system admin
+- ATHR Lab Founder/Researcher
+- Homelab System Administrator
 - West Computing Club Co-Founder
 
 Coursework (graduate):
@@ -16,3 +16,4 @@ Coursework (graduate):
 - High Performance Computing
 
 Github Stats
+
