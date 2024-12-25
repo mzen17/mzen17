@@ -1,10 +1,9 @@
 ### ✋ Hello, MZEN here!
 
-I am Mike Zeng, a senior at West Senior High school. I have taken substantial CS classes at University of Iowa, essentially completing my bachelors. I am currently pursing CS further through graduate classes, research, and independent studies, most which concern to fields of networks and deep learning,
+I am Mike Zeng, a HS senior. I have a strong interest in network system performance as well as AI/ML applications.
 
-In the meantime, I study for USACO and Codeforces, and run the West Computing Club.
+Experience:
+2x research intern @uiowa, 1 publication.
 
-### Profiles
-🌐 [mzen.dev (Website)](https://mzen.dev) \
-🏁 [mzeng (Codeforces)](https://codeforces.com/profile/mzeng)\
-🤗 [mzen (Huggingface)](https://huggingface.co/mzen)
+Activities:
+ATHR Lab founder and lead researcher, homelab system admin, West Computing Club Co-Founder
