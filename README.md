@@ -17,3 +17,6 @@ Coursework (graduate):
 
 Github Stats
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=mzen17&theme=tokyonight)](https://github.com/mzen17/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzen17&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
