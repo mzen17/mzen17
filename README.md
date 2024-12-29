@@ -1,7 +1,7 @@
 ### ✋ Hello, MZEN here!
 
 I am Mike Zeng, a HS senior. I have a strong interest in network system performance as well as AI/ML applications.
-[![My Stats](https://github-readme-stats.vercel.app/api?username=mzen17&theme=tokyonight)](https://github.com/mzen17/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=mzen17&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Experience:
 - 2x research intern @uiowa, 1 publication.
